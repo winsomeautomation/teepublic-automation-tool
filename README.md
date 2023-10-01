@@ -26,7 +26,7 @@ pip install tkinter customtkinter Pillow selenium pyperclip
 
 ## How to Use
 **1. Open the Application:**
-Navigate to the directory where you have the Teepublic Automation Tool files and scripts. Run the main script to open the application (ui.py).
+Navigate to the directory where you have the Teepublic Automation Tool files and scripts. Run the main script to open the application (app.py).
 
 **2. Click on the File Menu:**
 Once the application is running, you should see a menu at the top. Click on "File."
